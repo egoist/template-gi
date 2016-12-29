@@ -1,0 +1,15 @@
+{
+  "name": "template-gi",
+  "version": "0.0.0",
+  "description": "Add gitignore file to your project",
+  "repository": {
+    "url": "EGOIST/template-gi",
+    "type": "git"
+  },
+  "author": "EGOIST <0x142857@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "sao.js",
+    "template"
+  ]
+}
