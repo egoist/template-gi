@@ -18,7 +18,7 @@ Check out [sao](https://github.com/egoist/sao) if you don't know what it is.
 - default
 - gitbook
 
-Check out [./template](./template) for more details.
+Check out [./template](./template) for more details, you can send Pull Request to add more types!
 
 
 ## License
