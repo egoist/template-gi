@@ -11,6 +11,8 @@ cd your-project
 sao gi
 ```
 
+Check out [sao](https://github.com/egoist/sao) if you don't know what it is.
+
 ## Available gitignore types
 
 - default
