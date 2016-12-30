@@ -23,7 +23,7 @@ module.exports = {
     'gi-*': '.gitignore'
   },
   filters: filters,
-  post({chalk, folderName, data, log}) {
-    log.success(`${data.type} .gitignore is successfully generated in ${folderName}`)
+  post({chalk, folderName, answers, log}) {
+    log.success(`${answers.type} .gitignore is successfully generated in ${folderName}`)
   }
 }
